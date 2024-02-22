@@ -7,8 +7,8 @@
 |프로젝트 기간 및 규모|2024-01-26 ~ 2024-02-21 (28일) <br> 5명|
 |프로젝트 개발 이슈|초기 계획은 영상 정보를 YOLO 라이브러리를 이용하여 분석하는 것이었으나 1000건/월 이라는 수량적 한계로 인하여 톨게이트 통행량으로 대체되었다|
 |프로젝트 결과물·성과|[프로젝트 레포지토리](https://github.com/portk/comp_project)|
-||![info](../image/jeogi_main.png)|
-||![info](../image/jeogi_select.png)|
+||![main](https://github.com/portk/portfolio/blob/main/images/jeogi_main.png)|
+||![select](https://github.com/portk/portfolio/blob/main/images/jeogi_select.png)|
 
 #### 구체사항
 |항목|내용|
