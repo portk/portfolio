@@ -7,7 +7,7 @@
 |프로젝트 기간 및 규모|2023-09-11 ~ <br> 1명|
 |프로젝트 개발 이슈|데이터에 null값이 상당히 많았다|
 |프로젝트 결과물·성과|[날씨수집 레포지토리](https://github.com/portk/getting_weather)|
-||![weatherData](../image/weather.png)|
+||![weatherData](https://github.com/portk/portfolio/blob/main/images/weather.png)|
 
 #### 구체사항
 |항목|내용|
