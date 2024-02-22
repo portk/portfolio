@@ -7,8 +7,8 @@
 |프로젝트 기간 및 규모|2023-12-05 ~ 2023-12-19 (15일) <br> 5명|
 |프로젝트 개발 이슈|충전소 데이터를 지도 레벨에 관계없이 표시 안의 영역에 대해 가져오게 했더니 너무 많은 데이터가 와서 마커로 인해 표시가 지연되는 현상이 발생됐었다|
 |프로젝트 결과물·성과|[프로젝트 레포지토리](https://github.com/yoon0718/ovangers)|
-||![maps](../image/mec_main.png)|
-||![info](../image/mec_info.png)|
+||![maps](https://github.com/portk/portfolio/blob/main/images/mec_main.png)|
+||![info](https://github.com/portk/portfolio/blob/main/images/mec_info.png)|
 
 
 #### 구체사항
