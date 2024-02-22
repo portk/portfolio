@@ -7,7 +7,7 @@
 |프로젝트 기간 및 규모|2023-09-25 ~ 2023-10-12 (65 hour) <br> 5명|
 |프로젝트 개발 이슈|초기 계획은 코로나 같은 대형 유행병이 미치는 영향이었으나 크게 나타나지 않아서 주제가 수정되었다.<br>계산에 필요한 상수는 손으로 직접 계산하였다|
 |프로젝트 결과물·성과|[프로젝트 레포지토리](https://github.com/portk/KEPCO_MIniProject_1)|
-||![mini1](../image/mini1.png)|
+||![mini1](https://github.com/portk/portfolio/blob/main/images/mini1.png)|
 
 #### 구체사항
 |항목|내용|
