@@ -7,9 +7,9 @@
 |프로젝트 기간 및 규모|2023-11-27 ~ 2023-12-03 (7일) <br> 1명|
 |프로젝트 개발 이슈|초기 개발시 계정별로 분리해두지 않아 나중에 분리할 수 있게 하며 코드를 대량 수정해야 했다|
 |프로젝트 결과물·성과|[블로그 레포지토리](https://github.com/portk/blog)|
-||![blog_login](../image/blog_login.png)|
-||![blog_register](../image/blog_register.png)|
-||![blog](../image/blog.png)|
+||![blog_login](https://github.com/portk/portfolio/blob/main/images/blog_login.png)|
+||![blog_register](https://github.com/portk/portfolio/blob/main/images/blog_login.png)|
+||![blog](https://github.com/portk/portfolio/blob/main/images/blog.png)|
 
 #### 구체사항
 |항목|내용|
