@@ -10,3 +10,5 @@
 |4|[찾아가는 전기차 충전 서비스 개발](https://github.com/portk/portfolio/blob/main/pages/project4.md)|
 |5|[태양광 전력 생산량 예측 서비스 개발](https://github.com/portk/portfolio/blob/main/pages/project5.md)|
 |6|[인구밀집지역 분석을 통한 여행 정보 웹 제작](https://github.com/portk/portfolio/blob/main/pages/project6.md)|
+|7|[아두이노 7 segment](https://www.tinkercad.com/things/6hINGanReT8-anode-7-segment?sharecode=PCOvt-WR_xaFc8EcV0Jvhz7QnescVChUSaZxOPPbzyY)|
+|8|[아두이노 8×2 LCD](https://www.tinkercad.com/things/6wUngBKpGcA-82-lcd?sharecode=EGRf8aJDgXFiqXCGXIVMT3NTuZP4fmuUK0avhgU5DwU)|
