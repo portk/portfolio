@@ -16,3 +16,5 @@
 |성과|Python을 이용한 데이터 정제<br>MySQL의 쿼리와 PYthon의 pymysql을 이용한 DB와 상호작용<br> 1 step만큼 예측|
 |보완점|직접 계산하는 것이 아닌 ML DL을 통한 계산으로 수정|
 |프로젝트를 수행하며 성장한점 및 느낀점|Pandas, matplotlib, pymysql 등 파이썬 라이브러리 사용에 익숙해졌다.|
+
+[목록으로](https://github.com/portk/portfolio)
