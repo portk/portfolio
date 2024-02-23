@@ -6,7 +6,7 @@
 |프로젝트에 대한 설명|React 와 Spring boot, Maria DB, KakaoMap API를 활용한 찾아가는 전기차 충전 서비스 개발|
 |프로젝트 기간 및 규모|2023-12-06 ~ 2023-12-19 (14일) <br> 5명|
 |프로젝트 개발 이슈|충전소 데이터를 지도 레벨에 관계없이 표시 안의 영역에 대해 가져오게 했더니 너무 많은 데이터가 와서 마커로 인해 표시가 지연되는 현상이 발생됐었다|
-|프로젝트 결과물·성과|[프로젝트 레포지토리](https://github.com/yoon0718/ovangers)|
+|프로젝트 결과물·성과|[프로젝트 레포지토리](https://github.com/yoon0718/ovangers)(제 작업물은 kkh branch에 있습니다)|
 ||![maps](https://github.com/portk/portfolio/blob/main/images/mec_main.png)|
 ||![info](https://github.com/portk/portfolio/blob/main/images/mec_info.png)|
 
