@@ -8,7 +8,7 @@
 |프로젝트 개발 이슈|초기 개발시 계정별로 분리해두지 않아 나중에 분리할 수 있게 하며 코드를 대량 수정해야 했다|
 |프로젝트 결과물·성과|[블로그 레포지토리](https://github.com/portk/blog)|
 ||![blog_login](https://github.com/portk/portfolio/blob/main/images/blog_login.png)|
-||![blog_register](https://github.com/portk/portfolio/blob/main/images/blog_login.png)|
+||![blog_register](https://github.com/portk/portfolio/blob/main/images/blog_register.png)|
 ||![blog](https://github.com/portk/portfolio/blob/main/images/blog.png)|
 
 #### 구체사항
