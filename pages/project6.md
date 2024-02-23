@@ -6,7 +6,7 @@
 |프로젝트에 대한 설명|도로교통공단의 영업소별 톨게이트 통행량을 base로 하여 분석하여 혼잡도를 예측하고 그것을 지도에 색으로서 표현하며, 지역들에 대한 관광정보를 제공한다.|
 |프로젝트 기간 및 규모|2024-01-26 ~ 2024-02-21 (27일) <br> 5명|
 |프로젝트 개발 이슈|초기 계획은 영상 정보를 YOLO 라이브러리를 이용하여 분석하는 것이었으나 1000건/월 이라는 수량적 한계로 인하여 톨게이트 통행량으로 대체되었다|
-|프로젝트 결과물·성과|[프로젝트 레포지토리](https://github.com/portk/comp_project)|
+|프로젝트 결과물·성과|[프로젝트 레포지토리](https://github.com/portk/comp_project)(제 작업물은 kkh branch에 있습니다)|
 ||![main](https://github.com/portk/portfolio/blob/main/images/jeogi_main.png)|
 ||![select](https://github.com/portk/portfolio/blob/main/images/jeogi_select.png)|
 
