@@ -2,7 +2,7 @@
 
 ### University
 |Project Number|Title|
-|----|----|
+|--:--|----|
 |1|[Arduino 7 segment](https://www.tinkercad.com/things/6hINGanReT8-anode-7-segment?sharecode=PCOvt-WR_xaFc8EcV0Jvhz7QnescVChUSaZxOPPbzyY)|
 |2|[Arduino 8×2 LCD](https://www.tinkercad.com/things/6wUngBKpGcA-82-lcd?sharecode=EGRf8aJDgXFiqXCGXIVMT3NTuZP4fmuUK0avhgU5DwU)|
 
@@ -10,7 +10,7 @@
 
 ### KEPCO Digital Boot Camp
 |Project Number|Title|
-|----|----|
+|--:--|----|
 |1|[광주 날씨 데이터 수집](https://github.com/portk/portfolio/blob/main/pages/project1.md)|
 |2|[전력 판매량 예측](https://github.com/portk/portfolio/blob/main/pages/project2.md)|
 |3|[블로그](https://github.com/portk/portfolio/blob/main/pages/project3.md)|
