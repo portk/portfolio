@@ -7,6 +7,10 @@
 |프로젝트 기간 및 규모|2024-01-17 ~ 2024-01-26 (10일) <br> 5명|
 |프로젝트 개발 이슈|기상청 api에 있던 위성데이터는 망가져있었고, 날씨 데이터는 이상치와 null값이 혼재해 있었다.|
 |프로젝트 결과물·성과|[프로젝트 레포지토리](https://github.com/yoon0718/solar-power-forecast)|
+||![main1](https://github.com/portk/portfolio/blob/main/images/sunlab_main.png)|
+||![main1](https://github.com/portk/portfolio/blob/main/images/sunlab_main2.png)|
+||![main1](https://github.com/portk/portfolio/blob/main/images/sunlab_pred1.png)|
+||![main1](https://github.com/portk/portfolio/blob/main/images/sunlab_pred2.png)|
 
 #### 구체사항
 |항목|내용|
