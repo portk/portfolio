@@ -17,3 +17,10 @@
 |4 (팀)|[찾아가는 전기차 충전 서비스 개발](https://github.com/portk/portfolio/blob/main/pages/project4.md)|
 |5 (팀)|[태양광 전력 생산량 예측 서비스 개발](https://github.com/portk/portfolio/blob/main/pages/project5.md)|
 |6 (팀)|[인구밀집지역 분석을 통한 여행 정보 웹 제작](https://github.com/portk/portfolio/blob/main/pages/project6.md)|
+
+<br>
+
+### 3. 개인
+|Project Number|Title|
+|:----:|----|
+|1|[C#으로 API출력하기](https://github.com/portk/portfolio/blob/main/pages/project7.md)|
