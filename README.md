@@ -21,6 +21,6 @@
 <br>
 
 ### 3. 개인
-|Project Number|Title|
-|:----:|----|
-|1|[C#으로 API출력하기](https://github.com/portk/portfolio/blob/main/pages/project7.md)|
+|Project Number|Title|Period|Language|
+|:----:|----|----|----|
+|1|[C#으로 API출력하기](https://github.com/portk/portfolio/blob/main/pages/project7.md)|2024-02-29 <br>~ 2024-02-29|C#(.net)|
