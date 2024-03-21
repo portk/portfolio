@@ -1,4 +1,5 @@
 # portfolio
+2번째부터는 포트폴리오 상세 내용과 연결됩니다
 
 ### 1. University(코드만 있습니다)
 |Project Number|Title|
@@ -8,7 +9,7 @@
 
 <br>
 
-### 2. KEPCO Digital Boot Camp(포트폴리오 상세 내용과 연결됩니다)
+### 2. KEPCO Digital Boot Camp
 |Project Number|Title|Role|Period|Language|
 |:----:|----|----|----|----|
 |1 (개인)|[광주 날씨 데이터 수집](https://github.com/portk/portfolio/blob/main/pages/project1.md)|.|2023-09-11 ~|Python|
