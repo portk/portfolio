@@ -8,15 +8,15 @@
 
 <br>
 
-### 2. KEPCO Digital Boot Camp
-|Project Number|Title|
+### 2. KEPCO Digital Boot Camp(포트폴리오 상세 내용과 연결됩니다)
+|Project Number|Title|Role|Period|Language|
 |:----:|----|
-|1 (개인)|[광주 날씨 데이터 수집](https://github.com/portk/portfolio/blob/main/pages/project1.md)|
-|2 (팀)|[전력 판매량 예측](https://github.com/portk/portfolio/blob/main/pages/project2.md)|
-|3 (개인)|[블로그](https://github.com/portk/portfolio/blob/main/pages/project3.md)|
-|4 (팀)|[찾아가는 전기차 충전 서비스 개발](https://github.com/portk/portfolio/blob/main/pages/project4.md)|
-|5 (팀)|[태양광 전력 생산량 예측 서비스 개발](https://github.com/portk/portfolio/blob/main/pages/project5.md)|
-|6 (팀)|[인구밀집지역 분석을 통한 여행 정보 웹 제작](https://github.com/portk/portfolio/blob/main/pages/project6.md)|
+|1 (개인)|[광주 날씨 데이터 수집](https://github.com/portk/portfolio/blob/main/pages/project1.md)||2023-09-11 ~|Python|
+|2 (팀)|[전력 판매량 예측](https://github.com/portk/portfolio/blob/main/pages/project2.md)|지역별 각자 진행 후 예측|2023-09-25 ~ 2023-10-12|Python|
+|3 (개인)|[블로그](https://github.com/portk/portfolio/blob/main/pages/project3.md)||2023-11-27 ~ 2023-12-03|JavaScript, Java, MySQL (mybatis 사용)|
+|4 (팀)|[찾아가는 전기차 충전 서비스 개발](https://github.com/portk/portfolio/blob/main/pages/project4.md)|지도 구현, 마커 구현|2023-12-06 ~ 2023-12-19|JavaScript|
+|5 (팀)|[태양광 전력 생산량 예측 서비스 개발](https://github.com/portk/portfolio/blob/main/pages/project5.md)|데이터 분석, 백엔드 구성|2024-01-17 ~ 2024-01-26|Java, Python (JDBC, SQLAlchemy 사용)|
+|6 (팀)|[인구밀집지역 분석을 통한 여행 정보 웹 제작](https://github.com/portk/portfolio/blob/main/pages/project6.md)|데이터 분석, 예측|2024-01-26 ~ 2024-02-21|Python|
 
 <br>
 
