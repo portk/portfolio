@@ -1,6 +1,6 @@
 # portfolio
 
-### 1. University
+### 1. University(코드만 있습니다)
 |Project Number|Title|
 |:----:|----|
 |1|[Arduino 7 segment](https://www.tinkercad.com/things/6hINGanReT8-anode-7-segment?sharecode=PCOvt-WR_xaFc8EcV0Jvhz7QnescVChUSaZxOPPbzyY)|
